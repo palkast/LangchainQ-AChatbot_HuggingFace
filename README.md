@@ -1,9 +1,9 @@
 # LangchainQ-AChatbot_HuggingFace
-Create a Langchain Q-A Chatbot using OpenAI model and deployed on Streamlit web app through HuggingFace platform.
+Created a Langchain Q-A Chatbot using OpenAI model and deployed on Streamlit web app through HuggingFace platform.
 1.Create a Hugging Face working space intialized with Stream Lit SDK.< /br>
 2.Create a app.py to cretae a web app on Streamlit and call open ai model to get a response.
 3.Upload files(app.py and requirements.txt) to Hugging Face repository under Files.
-4.Application will be built automatically.
+4.Application will be deployd on HuggingFace platform and built automatically.
 5.Application will start running on Hugging Face.
 ## Please go to the below link to start the Chat bot application.
 https://huggingface.co/spaces/palkastmsba/LangchainQ-AChatbot
